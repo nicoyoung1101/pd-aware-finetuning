@@ -9,3 +9,7 @@ This release packages the completed local research and frozen aggregate results.
 - Final reported signed-trunk results and legacy unsigned implementation are explicitly distinguished.
 - Optional CI configuration is provided as `docs/ci-example.yml`; place it under `.github/workflows/` to enable it with appropriate GitHub workflow credentials.
 - Source syntax, result-demo regeneration, local Markdown links and video integrity were checked. Fine-tuning additionally has data-free contract tests. No new cohort evaluation or GPU training is claimed by this packaging release.
+
+## SMPL portfolio display update
+
+Replaced the README skeleton previews with SMPL surface-mesh animations. The fine-tuning preview is generated from the original labeled ICNR MP4; the benchmark uses the original prediction tensors and SMPL mesh topology to render the common-walk five-model comparison.

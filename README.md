@@ -20,9 +20,9 @@ Healthy-pretrained pose estimators can smooth clinically meaningful Parkinsonian
 | 23 participants · 781 walks | 23,130 parameters · **~0.48%** of the base model | Six outer subject-wise folds |
 
 ## See the reconstructions
-![Six-IMU GT, pose-only and clinical-aware reconstruction](assets/six-imu-comparison.gif)
+![SMPL mesh reconstruction: GT, pose-only and clinical-aware with six and five IMUs](assets/gait-reconstruction.gif)
 
-[**Watch or download the full 1080p MP4**](assets/gait-reconstruction.mp4) · [Five-IMU animation](assets/five-imu-comparison.gif) · [Conference project page](https://nicoyoung1101.github.io/pd-gait-imu/)
+[**Watch or download the full 1080p MP4**](assets/gait-reconstruction.mp4) · [Conference project page](https://nicoyoung1101.github.io/pd-gait-imu/)
 
 GT denotes ground truth; P denotes pose-only and C clinical-aware fine-tuning. The full video contains both sensor configurations at original playback speed. These are virtual-IMU qualitative examples.
 
@@ -76,7 +76,7 @@ TransPose/        Credited baseline network and articulate toolkit
 scripts/          Held-out inference, bootstrap analysis and figure regeneration
 tests/            Data-free training-contract checks
 results/          Frozen aggregate effect tables
-assets/           MP4, GIFs, banner and result plot
+assets/           SMPL MP4/GIF, banner and result plot
 docs/             Study protocol, result history and reproduction guide
 ```
 
