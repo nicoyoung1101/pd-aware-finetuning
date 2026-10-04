@@ -1,0 +1,17 @@
+[
+  {
+    "file": "Evaluation/train_icnr2026_transpose.py",
+    "origin": "archived completed GPU study source",
+    "sha256": "199d878527deb78098acf1aa51b88d8d8bc1ee082185666f5afcadb73ea8fefb"
+  },
+  {
+    "file": "Evaluation/icnr2026_finetune_core.py",
+    "origin": "archived completed GPU study source",
+    "sha256": "2cd2680a0c16d7783c218144e709d60b975b3de0eebde05a652877fc2a2f658f"
+  },
+  {
+    "file": "TransPose/net.py",
+    "origin": "archived completed GPU study source",
+    "sha256": "d4ef0112ddaa9ef67c44c6625b0e3f6d5059537e3737b4efa474ff2e36a0d82d"
+  }
+]

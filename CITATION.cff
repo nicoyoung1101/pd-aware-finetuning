@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "Please cite the ICNR 2026 poster when using this study."
+type: software
+title: "PD-aware fine-tuning for clinically relevant gait-feature preservation"
+authors:
+  - family-names: Yang
+    given-names: Kai
+  - family-names: Sun
+    given-names: Haoyuan
+  - family-names: Hamada
+    given-names: Hiroyuki
+  - family-names: Kikuchi
+    given-names: Ken
+  - family-names: Yamashita
+    given-names: Atsushi
+  - family-names: Torricelli
+    given-names: Diego
+  - family-names: An
+    given-names: Qi
+repository-code: "https://github.com/nicoyoung1101/pd-aware-finetuning"
+url: "https://nicoyoung1101.github.io/pd-gait-imu/"
+preferred-citation:
+  type: conference-paper
+  title: "Preserving Clinically Relevant Gait Features in Wearable-Sensor Pose Estimation for Parkinson's Disease"
+  authors:
+    - family-names: Yang
+      given-names: Kai
+    - family-names: Sun
+      given-names: Haoyuan
+    - family-names: Hamada
+      given-names: Hiroyuki
+    - family-names: Kikuchi
+      given-names: Ken
+    - family-names: Yamashita
+      given-names: Atsushi
+    - family-names: Torricelli
+      given-names: Diego
+    - family-names: An
+      given-names: Qi
+  year: 2026
+  notes: "International Conference on NeuroRehabilitation, Seoul. Poster P-113."
